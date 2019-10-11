@@ -6,8 +6,6 @@
 *.pem
 
 ### Data ###
-data/
-./data/
 *.csv
 *.dat
 *.efx
