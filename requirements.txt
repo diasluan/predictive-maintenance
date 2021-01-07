@@ -49,7 +49,7 @@ keyrings.alt==3.0
 kiwisolver==1.1.0
 language-selector==0.1
 lesscpy==0.13.0
-lxml==4.4.1
+lxml==4.6.2
 MarkupSafe==1.1.1
 matplotlib==3.1.1
 missingno==0.4.2
